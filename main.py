@@ -1,4 +1,3 @@
-# auto-code-refactor - 极简示例代码
 # 这是一个模拟代码重构流程的示例，后续将基于MiMo模型接入完整逻辑
 
 import re
